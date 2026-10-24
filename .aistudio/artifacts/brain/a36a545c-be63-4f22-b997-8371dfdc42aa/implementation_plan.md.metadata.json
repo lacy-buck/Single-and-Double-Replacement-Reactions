@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural plan for the High School Chemistry Reaction Practice application covering Halogen Single Replacement, Metal Single Replacement, Double Replacement Precipitations, Mixed Mode with sequential 3-step mastery (type identification -> product prediction -> equation balancing), and a 6-question Homework module with instant client-side PDF generation. Includes an interactive reference drawer with Activity Series and Solubility Rules, plus smart chemical formula inputs with auto-subscripts.",
+  "updatedAt":  "2026-10-24T17:15:55.073242361Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

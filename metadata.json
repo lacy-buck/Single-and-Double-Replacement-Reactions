@@ -1,0 +1,6 @@
+{
+  "name": "ReactionLab - Chemistry Reaction Practice & Homework",
+  "description": "Interactive high school chemistry practice for halogen single replacement, metal single replacement, and precipitation double replacement reactions with step-by-step product prediction, equation balancing, and homework PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
