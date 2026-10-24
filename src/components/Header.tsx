@@ -30,7 +30,7 @@ export const Header: React.FC<HeaderProps> = ({
           href="#home"
           onClick={(e) => {
             e.preventDefault();
-            onSelectTab('mixed');
+            onSelectTab('halogen_sr');
           }}
           className="text-lg font-bold tracking-tight text-slate-900 whitespace-nowrap shrink-0 flex items-center gap-2"
         >

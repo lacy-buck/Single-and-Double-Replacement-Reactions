@@ -8,7 +8,7 @@ import { getInterleavedMixedProblems } from './utils/chemistry';
 import { Atom, ShieldCheck, FileCheck, BookOpen } from 'lucide-react';
 
 export default function App() {
-  const [currentTab, setCurrentTab] = useState<AppTab>('mixed');
+  const [currentTab, setCurrentTab] = useState<AppTab>('halogen_sr');
   const [isReferenceOpen, setIsReferenceOpen] = useState(false);
 
   const halogenProblems = REACTION_BANK.filter((r) => r.type === 'halogen_sr');
